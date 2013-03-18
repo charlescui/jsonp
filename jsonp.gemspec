@@ -13,6 +13,7 @@ Gem::Specification.new do |gem|
   gem.homepage      = "https://github.com/charlescui/jsonp"
 
   gem.add_development_dependency 'ansi'
+  gem.add_development_dependency 'daemons'
   gem.add_development_dependency 'em-http-server'
   gem.add_development_dependency 'em-http-request'
 
